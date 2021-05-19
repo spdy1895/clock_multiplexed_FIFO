@@ -1,0 +1,19 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:47 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Mon Feb  8 16:37:21 2021
+# Process ID: 17257
+# Current directory: /home/spdy18695/workbench/Vivado_projects/FIFO
+# Command line: vivado FIFO.xpr
+# Log file: /home/spdy18695/workbench/Vivado_projects/FIFO/vivado.log
+# Journal file: /home/spdy18695/workbench/Vivado_projects/FIFO/vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project FIFO.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source top_tb.tcl
+relaunch_sim
+synth_design -rtl -rtl_skip_mlo -name rtl_1
+close_project

@@ -1,0 +1,12 @@
+FIFO.cache/
+FIFO.hw/
+FIFO.ip_user_files/
+FIFO.sim/
+FIFO.xpr
+FIFO_ram_time_stamp_report/
+top_tb_behav.wcfg
+vivado.jou
+vivado.log
+vivado_3922.backup.jou
+vivado_3922.backup.log
+vivado_pid3922.str

@@ -1,0 +1,39 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:47 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Mon Jan  4 11:35:04 2021
+# Process ID: 9663
+# Current directory: /home/spdy18695/workbench/Vivado_projects/FIFO
+# Command line: vivado
+# Log file: /home/spdy18695/workbench/Vivado_projects/FIFO/vivado.log
+# Journal file: /home/spdy18695/workbench/Vivado_projects/FIFO/vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project /home/spdy18695/workbench/Vivado_projects/FIFO/FIFO.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+open_wave_config /home/spdy18695/workbench/Vivado_projects/FIFO/top_tb_behav.wcfg
+source top_tb.tcl
+save_wave_config {/home/spdy18695/workbench/Vivado_projects/FIFO/top_tb_behav.wcfg}
+relaunch_sim
+save_wave_config {/home/spdy18695/workbench/Vivado_projects/FIFO/top_tb_behav.wcfg}
+save_wave_config {/home/spdy18695/workbench/Vivado_projects/FIFO/top_tb_behav.wcfg}
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+relaunch_sim
+relaunch_sim
+save_wave_config {/home/spdy18695/workbench/Vivado_projects/FIFO/top_tb_behav.wcfg}
+save_wave_config {/home/spdy18695/workbench/Vivado_projects/FIFO/top_tb_behav.wcfg}
+relaunch_sim
+save_wave_config {/home/spdy18695/workbench/Vivado_projects/FIFO/top_tb_behav.wcfg}
+close_sim
+close_project

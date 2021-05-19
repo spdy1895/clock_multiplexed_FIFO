@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:47 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Mon Feb  8 16:02:43 2021
+# Process ID: 13525
+# Current directory: /home/spdy18695/workbench/Vivado_projects/FIFO
+# Command line: vivado FIFO.xpr
+# Log file: /home/spdy18695/workbench/Vivado_projects/FIFO/vivado.log
+# Journal file: /home/spdy18695/workbench/Vivado_projects/FIFO/vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project FIFO.xpr
+WARNING: [filemgmt 56-3] IPUserFilesDir: Could not find the directory '/home/spdy18695/workbench/Vivado_projects/FIFO/FIFO.ip_user_files'.
+CRITICAL WARNING: [Project 1-19] Could not find the file '/home/spdy18695/workbench/Vivado_projects/FIFO/top_tb_behav.wcfg'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository '/tools/Xilinx/Vivado/2020.2/data/ip'.
+open_project: Time (s): cpu = 00:00:20 ; elapsed = 00:00:08 . Memory (MB): peak = 7326.688 ; gain = 67.105 ; free physical = 4123 ; free virtual = 9837
+update_compile_order -fileset sources_1
+INFO: [IP_Flow 19-3899] Cannot get the environment domain name variable for the component vendor name. Setting the vendor name to 'user.org'.
+close_project
+exit
+INFO: [Common 17-206] Exiting Vivado at Mon Feb  8 16:32:00 2021...
